@@ -3,39 +3,39 @@ Base project for lab assignment 1
 
 ## 3.- 
 
-- <html> This tag will tell the browser that this document is an html file. It wil contain all the elements of the web page. 
+- \<html> This tag will tell the browser that this document is an html file. It wil contain all the elements of the web page. 
 
   
 
-- <meta> provides metadata about the html 
+- \<meta> provides metadata about the html 
 
-- <title> Defines the title of the web page (seen in the tabs of the browser) 
+- \<title> Defines the title of the web page (seen in the tabs of the browser) 
 
-- <head> Contains metadata about the web page. For this instance, it contains the meta for the title of the web page. 
+- \<head> Contains metadata about the web page. For this instance, it contains the meta for the title of the web page. 
 
-- <body> Contains everything that is contained inside de web page itself (it’s visible structure) 
+- \<body> Contains everything that is contained inside de web page itself (it’s visible structure) 
 
-- <table> Its a table that contains information, in this case we have a table of tables for displaying the posts.   
+- \<table> Its a table that contains information, in this case we have a table of tables for displaying the posts.   
 
-	- <tbody> >> It's the same a <body> but used inside a <table>     
+	- \<tbody> >> It's the same a \<body> but used inside a \<table>     
 
-	- <tr> >> defines a row inside a <table> 
+	- \<tr> >> defines a row inside a \<table> 
 
-	- <t> >> defines a data cell inside a table 
+	- \<t> >> defines a data cell inside a \<table> 
 
-- <center> Makes the content inside it to be centered. 
+- \<center> Makes the content inside it to be centered. 
 
-- <script> Used to define a client-side script, we can see how it's defining the javascript script that has downloaded in the tab "Sources". 
+- \<script> Used to define a client-side script, we can see how it's defining the javascript script that has downloaded in the tab "Sources". 
 
-- <br> Creates a line break. 
+- \<br> Creates a line break. 
 
-- <a> Used to display links with an url. 
+- \<a> Used to display links with an url. 
 
-- <link> Used to link between document and external resources. In this case it is used to link with the css stylesheet. 
+- \<link> Used to link between document and external resources. In this case it is used to link with the css stylesheet. 
 
-- <span> This tag is mainly used for styling purposes. Here we can see how it uses a class for displaying the numbers of the posts. 
+- \<span> This tag is mainly used for styling purposes. Here we can see how it uses a class for displaying the numbers of the posts. 
 
-- <img> This tag is used to display images. We see how it uses the as src the image "s.gif".   
+- \<img> This tag is used to display images. We see how it uses the as src the image "s.gif".   
 
  
 
@@ -70,4 +70,3 @@ Certificate emitted by COMODO CA Limited
 
 Expires on August 21, 2019 
 
- 
