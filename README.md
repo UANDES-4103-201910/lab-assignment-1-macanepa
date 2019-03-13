@@ -21,7 +21,7 @@ Base project for lab assignment 1
 
 	- \<tr> >> defines a row inside a \<table> 
 
-	- \<t> >> defines a data cell inside a \<table> 
+	- \<td> >> defines a data cell inside a \<table> 
 
 - \<center> >> Makes the content inside it to be centered. 
 
