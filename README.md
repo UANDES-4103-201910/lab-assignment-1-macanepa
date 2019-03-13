@@ -65,7 +65,7 @@ For this web page though It didn’t download anything with XHR type. The types 
 
 ## 6.-  
 
-Certificate emitted by COMODO CA Limited 
+Certificate emitted by COMODO RSA domain validation secure server ca
 
 Expires on August 21, 2019 
 
